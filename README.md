@@ -88,10 +88,9 @@ Digite a opção que deseja acessar:
 
 1. **Clonar o repositório**:
 
-   ```bash
-   git clone https://github.com/seu-usuario/mapeamento-areas-verdes-joinville.git
-   cd mapeamento-areas-verdes-joinville
-   ```
+```bash
+git clone https://github.com/seu-usuario/mapeamento-areas-verdes-joinville.git
+cd mapeamento-areas-verdes-joinville```
    
 2. **Compilar o projeto**:
 
