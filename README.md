@@ -90,22 +90,23 @@ Digite a opção que deseja acessar:
 
 ```bash
 git clone https://github.com/seu-usuario/mapeamento-areas-verdes-joinville.git
-cd mapeamento-areas-verdes-joinville```
+cd mapeamento-areas-verdes-joinville
+```
    
 2. **Compilar o projeto**:
 
 Certifique-se de ter o Java instalado e configure o ambiente de desenvolvimento. Compile o código com:
 
-   ```bash
-   javac Main.java
-   ```
+```bash
+javac Main.java
+```
 
 3. **Executar o sistema**:
 
 Para rodar o sistema, execute o seguinte comando:
 
-   ```bash
-   Java Main
-   ```
+```bash
+Java Main
+```
 
 O menu será exibido e você poderá interagir com o sistema.
