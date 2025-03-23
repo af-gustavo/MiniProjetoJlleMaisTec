@@ -68,7 +68,7 @@ Digite a opção que deseja acessar:
 2- Avaliar Área Verde
 3- Ver Detalhe de uma Área Verde
 4- Cadastrar Nova Área Verde
-
+```bash
 ### Exemplo de Interações
 
 - **Listar Áreas Verdes**: O sistema apresenta uma lista com todas as áreas verdes cadastradas, mostrando informações como nome, tipo de vegetação e média das avaliações.
