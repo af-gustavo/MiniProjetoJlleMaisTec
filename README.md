@@ -69,21 +69,21 @@ Digite a opção que deseja acessar:
 3- Ver Detalhe de uma Área Verde
 4- Cadastrar Nova Área Verde
 
-## Exemplo de Interações
+### Exemplo de Interações
 
 - **Listar Áreas Verdes**: O sistema apresenta uma lista com todas as áreas verdes cadastradas, mostrando informações como nome, tipo de vegetação e média das avaliações.
 - **Avaliar Área Verde**: O usuário escolhe uma área verde a ser avaliada e atribui uma nota para cada critério.
 - **Ver Detalhes de uma Área Verde**: O usuário pode consultar todos os detalhes de uma área verde específica.
 - **Cadastrar Nova Área Verde**: O usuário fornece informações sobre a nova área verde, que será cadastrada no sistema.
 
-## Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - **Java**: A linguagem de programação principal do projeto.
 - **Scanner**: Para interação com o usuário via terminal.
 - **Coleções (List, ArrayList)**: Para armazenar as áreas verdes, localizações e avaliações.
 - **Orientação a Objetos**: O projeto segue o paradigma de orientação a objetos para modelar as entidades e interações.
 
-## Como Executar o Projeto
+### Como Executar o Projeto
 
 1. **Clonar o repositório**:
 
